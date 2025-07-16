@@ -1,4 +1,4 @@
-# Text Editor Project
+# Text Editor
 
 This project is a simple yet powerful rich text editor built using React and the Quill library. It allows users to create and edit formatted text with a variety of styling options, similar to popular word processors.
 
@@ -17,7 +17,7 @@ This project is a simple yet powerful rich text editor built using React and the
 - **Quill**: A powerful rich text editor library that provides the editing functionality.
 - **Vite**: A fast build tool and development server.
 - **ESLint**: For linting and ensuring code quality.
-- **React Router DOM**: Included for routing capabilities (not currently used but ready for future expansion).
+- **React Router DOM**: Included for routing capabilities
 
 ## Project Structure
 
@@ -37,7 +37,7 @@ This project is a simple yet powerful rich text editor built using React and the
    ```
    npm run dev
    ```
-3. Open your browser and go to `http://localhost:3000` (or the port Vite specifies).
+3. Open your browser and go to `http://localhost:3000`
 
 ## Usage
 
